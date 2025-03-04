@@ -1,6 +1,10 @@
 # Python CLI for running a web search
 
 ```bash
+# Setup venv
+
+python3 -m venv ./.env
+
 # Install Requirements
 
 pip install -r requirements.txt
