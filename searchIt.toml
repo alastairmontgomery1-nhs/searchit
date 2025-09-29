@@ -1,5 +1,6 @@
 default = "bing"
-browser = "/mnt/c/Program Files/Mozilla Firefox/firefox.exe"
+ #browser = "/mnt/c/Program Files/Mozilla Firefox/firefox.exe"
+browser = "/mnt/c/Users/Alastair.Montgomery/AppData/Local/Mozilla Firefox/firefox.exe"
 bing = "https://bing.com/search?q="
 brave = "https://search.brave.com/search?q="
 duckduck = "https://duckduckgo.com/?q="
